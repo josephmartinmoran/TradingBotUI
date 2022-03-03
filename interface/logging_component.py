@@ -3,7 +3,7 @@ from datetime import datetime
 
 from interface.styling import *
 
-from styling import GLOBAL_FONT
+from interface.styling import GLOBAL_FONT
 
 
 class Logging(tk.Frame):
